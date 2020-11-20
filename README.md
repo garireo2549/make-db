@@ -1,5 +1,7 @@
 ## how to use
 
-1. sql install
+![gif]("./img/output.gif")
+
+1. mysql cli install
 2. docker install
 3. `make run`
